@@ -168,10 +168,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/przemyslawpluta/node-youtube-dl.git"
+    "url": "git://github.com/n1ru4l/node-youtube-dl.git"
   },
   "bugs": {
-    "url": "https://github.com/przemyslawpluta/node-youtube-dl/issues"
+    "url": "https://github.com/n1ru4l/node-youtube-dl/issues"
   },
   "keywords": [
     "download",
